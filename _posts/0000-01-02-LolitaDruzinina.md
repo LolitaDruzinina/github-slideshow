@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Wellcome to my github!"
 ---
-Your text
-Use the left arrow to go back!
-Add my first slide text!
+My text:
+### Use the left arrow to go back!
+Add **my first slide text!**
